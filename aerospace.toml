@@ -1,5 +1,7 @@
 after-login-command = []
 
+# aerospace, betterdisplay, hidden bar, raycast, shottr
+
 # You can use it to add commands that run after AeroSpace startup.
 # 'after-startup-command' is run after 'after-login-command'
 # Available commands : https://nikitabobko.github.io/AeroSpace/commands
